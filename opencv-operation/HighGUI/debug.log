@@ -1,0 +1,6 @@
+[0519/132046:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
+[0519/132046:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0519/132048:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0519/132050:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0519/132055:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0519/132057:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
